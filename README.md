@@ -1,2 +1,5 @@
-# utils_rocket-loader
-A Rocket or Plane spinner loader. Can be used as a placeholder for smth that takes some time. Looks beaiful :3
+# Rocket loader
+
+This is a beatiful spinner for website or smth else that use asynchronous code etc.
+
+You can use it in any way, as you wish.
